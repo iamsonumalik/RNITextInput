@@ -1,0 +1,23 @@
+
+{
+  "name": "react-native-i-text-input",
+  "version": "1.0.0",
+  "description": "RNITextInput allows you to use ios12 OTP auto fill feature. Now, if you get a one-time password (OTP) via a text message, iOS 12 will display an auto-fill prompt, which will help you quickly paste it in the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-textInput",
+    "text-input",
+    "ios12",
+    "OTP-fill",
+    "ios"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
