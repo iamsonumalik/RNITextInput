@@ -1,10 +1,12 @@
 
-# react-native-i-text-input
+# RNITextInput
 
 RNITextInput allows you to use ios12 OTP auto fill feature in React-native as well as in Vue-native.
 Now, if you get a one-time password (OTP) via a text message, iOS 12 will display an auto-fill prompt, which will help you quickly paste it in the app.
 
 NOTE: Security code is only work with System keyboard. So avoid using custom keyboard.
+
+## Sample -> [RNITextInputSample](https://github.com/iamsonumalik/RNITextInputSample)
 
 ## Getting started
 
